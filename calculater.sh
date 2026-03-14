@@ -11,3 +11,5 @@ a = vali
 b = vali noor
 
 verifying git merge in main branch
+
+checking merge conflicts
